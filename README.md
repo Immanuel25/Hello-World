@@ -2,5 +2,5 @@
 My first repository &lt;3
 
 Still learning how to code.
-Main languange : Python
-Sec Languange : C++
+Main languange : Python.
+Sec Languange : C++.
